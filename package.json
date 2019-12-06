@@ -1,0 +1,28 @@
+{
+  "name": "gulp-svgmin-paths",
+  "version": "1.0.0",
+  "description": "my most resilient SVG optimizer, based on gulp-svgmin. essential path data only",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sparkpunk/gulp-svgmin-paths.git"
+  },
+  "keywords": [
+    "svg",
+    "gulp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sparkpunk/gulp-svgmin-paths/issues"
+  },
+  "homepage": "https://github.com/sparkpunk/gulp-svgmin-paths#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-pretty-html": "^2.0.10",
+    "gulp-svgmin": "^2.2.0"
+  }
+}
